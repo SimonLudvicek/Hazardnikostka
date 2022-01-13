@@ -1,0 +1,30 @@
+body {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgSu5C2T0VII_tOOJ_QnmcFzChKeVYkZ5_aw&usqp=CAU);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 1920px;
+  text-size-adjust : 20px;
+    
+}
+div {
+  text-align: center;
+  font-size: 20px;
+ 
+}
+button {
+  border-radius: 12px;
+  background-color: #008CBA;
+  background-color: #008CBA;
+  transition-duration: 0.4s;
+  
+  padding: 13px 20px
+}
+figure {
+  margin-bottom: 30px;
+  margin-top: 75px;
+  
+}
+.button:hover {
+  background-color: #008CBA; 
+  color: white;
+}
